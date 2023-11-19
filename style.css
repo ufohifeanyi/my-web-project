@@ -1,0 +1,546 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'poppin',sans-serif;
+}
+.container{
+   margin: auto;
+   width: 100%;
+}
+header{
+    color: #fff;
+    background: #0a3b2c;
+    padding: 5px;
+}
+hr{
+    margin-bottom:1.5rem;
+}
+header svg{
+    width: 4%;
+}
+header nav{
+    display:flex;
+    justify-content:;
+    margin-left:10rem;
+}
+header li{
+    display:inline;
+    list-style:none;
+    padding: 5px 10px;
+}
+header a{
+    text-decoration:none;
+    font-size:12px;
+    color: #fff;
+    cursor:pointer;
+}
+header a:hover{
+    color: #0a3b2c;
+    transition:1s ease;
+}
+.number svg{
+    width: 5%;
+}
+.first{
+    display: flex;
+    justify-content:space-around;
+    padding-bottom: 20px;
+    border-bottom:2px solid #6D9773;
+    margin-bottom:0.2rem;
+}
+.call{
+    display;
+    gap:10px;
+}
+.t{
+    font-weight:bold;
+    font-size:1.5rem;
+}
+.number li{
+    list-style:none;
+    color: #0a3b2c;
+}
+.service{
+    text-align: center ;
+    line-height: 1;
+}
+.service h3{
+    font-size:2.3rem;
+     color:#0a3b2c;
+     text-transform:capitalize;
+}
+.th input{
+    border:1px solid #0a3b2c;
+    border-radius: 24px;
+    height: 50%;
+    padding: 5px 10px;
+}
+.th input:focus{
+    outline:none;
+    color: #0a3b2c; 
+}
+.th button{
+    border:1px solid #0a3b2c;
+    border-radius: 30px;
+    font-size:5px;
+    padding: 5px 10px;
+}
+.second{
+    text-align:center;
+    margin-bottom:0.4rem;
+}
+.second ul li{
+    display: inline;
+    border-right:2px solid #0a3b2c;
+    border-left:;
+    padding: 5px 10px;
+}
+.second a{
+    text-decoration:none;
+    color: #0a3b2c;
+}
+.third{
+    background: url("phone.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    padding: 200px 50px;
+     margin-bottom:2.5rem;
+}
+.thirdy{
+    width: 50%;
+}
+.third p{
+    font-size:1.5rem;
+}
+.third h2{
+    font-size:2.2rem;
+    text-transform: uppercase;
+    color: #;
+    font-weight:bolder;
+}
+.forth{
+    display:flex;
+    gap:5px;
+    margin-bottom:3rem;
+    padding: 0px 70px;
+}
+.forth1{
+    width:50%;
+    margin-left:rem;
+}
+.forth2{
+    width: 50%;
+}
+.forth1 p{
+    font-size:2rem;
+    margin-bottom:1rem;
+    font-weight:300;
+    color: ;
+}
+.fr{
+    display:flex;
+    gap:8px;
+}
+.fr1{
+    width: 40%;
+     border:1px solid #cbcbdd;
+     padding: 5px 6px;
+}
+.frtxt{
+    width: 100%;
+}
+.frtxt p{
+    font-size:8px;
+    text-align:center;
+}
+.frtxt img{
+    width: 100%;
+}
+.frtt{
+    width: 100%;
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #cbcbdd;
+}
+.frtt button{
+    float: right;
+    border:none;
+    background:orange;
+    cursor:pointer;
+    width: %;
+}
+
+.forth2 p{
+    font-size:2rem;
+    margin-bottom:1rem;
+    font-weight:300;
+}
+.fo{
+    display:flex;
+    gap:8px;
+}
+.for1{
+    width: 40%;
+     border:1px solid #cbcbdd;
+     padding: 5px 6px;
+}
+.fortxt{
+    width: 100%;
+}
+.fortxt img{
+    width: 100%;
+}
+.fortxt p{
+    font-size:8px;
+    text-align:center;
+}
+.fortt{
+    width: 100%;
+    font-size:13px;
+    font-weight:bold;
+    border:1px solid #cbcbdd;
+}
+.fortt button{
+    float: right;
+    border:none;
+    background:orange;
+    cursor:pointer;
+    width: 30%;
+}
+.five{
+    text-align:center;
+    color: #fff;
+ background-image:url("fb.jpg") ;
+ background-repeat:no-repeat;
+ background-size:100%;
+ padding: 140px 0px;
+ opacity:0.9;
+}
+.five p{
+    font-size:1.2rem;
+    opacity:0.8;
+}
+.five h3{
+    font-size:1.8rem;
+     opacity:0.9;
+}
+.six{
+    background: #f4f4f4;
+   padding: 40px 200px;
+   margin-bottom:3rem;
+}
+.six p{
+    margin-bottom:10px;
+    font-size:1.5rem;
+    opacity:0.8;
+}
+.six-div{
+    display:flex;
+    gap:10px;
+    justify-content:;
+}
+.six1{
+    width:50%;
+    border:2px solid #fff;
+    display:flex;
+    gap:15px;
+    padding: px px;
+}
+.sixtxt{
+    width: 50%;
+    padding: 8px 5px;
+}
+.sixtxt h4 {
+    font-size:9px;
+    margin-bottom:10px;
+}
+.sixtxt p{
+    font-size:7px;
+   margin-bottom:10px;
+}
+.sixtxt h2{
+    margin-bottom:10px;
+}
+.sixtxt a{
+    text-decoration:none;
+    font-size:8px;
+    color: green;
+}
+.siximg{
+    width: 50%;
+    position: relative;
+}
+.siximg img{
+    width: 100%;
+    height:110%;
+    position:absolute;
+    top:15%;
+    right:10%;
+}
+.last{
+    padding: 0px 200px;
+    margin-bottom:3rem;
+}
+.last p{
+     font-size:1.7rem;
+     opacity:0.6;
+     margin-bottom:10px;
+}
+.last1{
+    display:flex;
+    gap:15px;
+}
+.last-txt{
+    width: 100%;
+    background: #f4f4f4;
+}
+.lasttxt{
+    width: 100%;
+    padding: 8px 15px;
+}
+.lasttxt h5{
+    font-size:10px;
+    opacity:0.7;
+    margin-bottom:10px;
+}
+.lasttxt p{
+    font-size:8px;
+    margin-bottom:10px;
+}
+.lastimg{
+    width: 100%;
+}
+.lastimg img{
+    width: 100%;
+}
+footer{
+    background:#0a3b2c;
+    color: #ffffff;
+}
+.foter{
+    display:flex;
+    justify-content: ;
+    padding: 14px 60px;
+}
+.bottomtxt{
+    display:flex;
+    width: 50%;
+    gap:px;
+}
+.bsvg {
+    width: 5%;
+    color: ;
+    
+}
+.bsvg svg{
+    width: 100%;
+    color: orange;
+}
+.bottomtt{
+    width: 50%;
+}
+.bottomtt input{
+    border:none;
+    background: #fff;
+}
+.bottomtt input:focus{
+    outline:none;
+    background: #fff;
+}
+.bottomtt button{
+    border:none;
+    background: green;
+    color: #fff;
+    width: 20%;
+    font-size:8px;
+    padding: 4px 10px;
+}
+.henry{
+    display:flex;
+    justify-content:space-around;
+}
+.henrtlxt p{
+    opacity:0.7;
+    font-size:10px;
+    margin-bottom:10px;
+}
+.henrtlxt li{
+    list-style:none;
+    opacity:0.8;
+    font-size:9px;
+    line-height: 1.5;
+}
+@media only screen and (max-width:768px){
+    *{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   margin: auto;
+   width: 100%;
+}
+header nav{
+    display:none;
+}
+.first{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    gap:1rem;
+}
+.t{
+    font-size:0.8rem;
+}
+.service h3{
+    font-size:1.5rem;
+    }
+.second ul li{
+    display:block;
+}
+.third{
+    padding: 70px;
+    text-align: center ;
+}
+.thirdy{
+    width: 100%;
+}
+.thirdy p{
+    font-size:0.8rem;
+}
+.thirdy h2{
+    font-size:1.1rem;
+}
+.forth{
+    display:flex;
+     gap:3rem;
+    flex-direction:column;
+    justify-content: ;
+}
+.forth1{
+    width: 100%;
+}
+.forth1 p{
+        font-size:1.3rem;
+}
+.fr{
+    display:flex;
+    flex-direction:column;
+     text-align: center ;
+     width: 100%;
+    
+}
+.frtxt p{
+    font-size:8px;
+    text-align:center;
+}
+
+
+.forth2{
+    width: 100%;
+}
+.forth2 p{
+    font-size:1.3rem;
+}
+.fo{
+    display:flex;
+    flex-direction:column;
+     text-align: center ;
+     width: 100%;
+}
+.fortxt p{
+    font-size:8px;
+    text-align:center;
+}
+.five{
+    padding: 50px;
+}
+.five p{
+    font-size:0.7rem;
+}
+.five h3{
+    font-size:1rem;
+}
+.six{
+    padding: 50px;
+}
+.six p{
+    font-size:1rem;
+}
+.six-div{
+    display:flex;
+    flex-direction:column;
+    gap:3rem;
+}
+.six1{
+    width:100%;
+}
+.sixtxt{
+    width: 100%;
+ }
+ .siximg{
+    width: 100%;
+ }
+ .sixtxt h4 {
+    font-size:9px;
+    }
+ .sixtxt p{
+    font-size:7px;
+}
+.siximg img{
+ width: 100%;
+  height:100%;
+}
+.last {
+    padding: 50px;
+}
+.last p{
+     font-size:1rem;
+}
+.last1{
+    display:flex;
+    gap:15px;
+    flex-direction:column;
+}
+.lasttxt{
+    width: 100%;
+    padding: 15px;
+}
+.lasttxt h5{
+    font-size:10px;
+}
+.lasttxt p{
+    font-size:8px;
+}
+.foter{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+ }
+.bottomtxt{
+ display:flex;
+ flex-direction:column;
+ width: 100%;
+ gap:px;
+}
+.bsvg {
+    width: 20%;
+}
+.bsvg svg{
+    width: 100%;
+}
+.bottomtt{
+    width: 100%;
+}
+.bottomtt button{
+    width: 30%;
+    font-size:8px;
+    padding: 10px;
+}
+.henry{
+    display:flex;
+    flex-direction:column;
+    width: %;
+    gap:1rem;
+    text-align:center;
+}
+}
